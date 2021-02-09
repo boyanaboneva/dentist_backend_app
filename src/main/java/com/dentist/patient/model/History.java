@@ -26,7 +26,7 @@ public class History {
     @ApiModelProperty(notes = "Diagnose linked to the current history object")
     private Diagnose diagnose;
 
-    @Column(name = "diagnose_description", nullable = false)
+    @Column(name = "diagnose_description")
     @ApiModelProperty(notes = "Diagnose description")
     private String diagnoseDescription;
 
@@ -40,7 +40,7 @@ public class History {
     @ApiModelProperty(notes = "Manipulation linked to the current history object")
     private Manipulation manipulation;
 
-    @Column(name = "manipulation_description", nullable = false)
+    @Column(name = "manipulation_description")
     @ApiModelProperty(notes = "Manipulation description")
     private String manipulationDescription;
 
