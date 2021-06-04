@@ -1,4 +1,4 @@
-# dentist_backend_app
+# Dentist Backend Application
 
 This is an university project - my master thesis in Computer Science and Engineering.
 
