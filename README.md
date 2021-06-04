@@ -15,3 +15,7 @@ The following features are implemented:
 - Patient diagnose(s), which is selected from list of services.
 - An option for additional description of the diagnose(s).
 - List with health insurance prices and without healthy insurance prices.
+
+## Dependencies
+
+Java 8 or above
